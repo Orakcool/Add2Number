@@ -12,6 +12,6 @@ public class Main {
        }catch (Exception e){
            System.out.println("Please, enter 2 variables and operation (sum/sub/mult/div). Exception: \""+e.getMessage()+"\"");
        }
-       System.out.println("End of my program");
+       System.out.println("End of program");
     }
 }
